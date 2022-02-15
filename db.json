@@ -1,0 +1,141 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rick and Morty t-shirt",
+      "price": "15",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/rick-n-morty-tshirt_rxyxoa.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Spiderman funko pop",
+      "price": "10",
+      "available": false,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/spiderman-funko_zcw3jb.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Playstation controller mug dark",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/ps4-dark-mug_iq9igm.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Playstation controller mug",
+      "price": "20",
+      "available": false,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/ps4-mug_ii212h.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "League of Legends t-shirt Jinx",
+      "price": "15",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/lol-tshirt_rzltcx.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Hulk Funko Pop!",
+      "price": "7",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/hulk-funko_lyswxw.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Harry Potter Funko Pop!",
+      "price": "5",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/harry-potter-funko_fciyli.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Game of Thrones mug",
+      "price": "5",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/gof-mug_d2w7yw.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "name": "Groot Funko Pop!",
+      "price": "5",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161563/groot-fumko_yycvnn.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "name": "Fortnite t-shirt",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/fortnite-tshirt_zdfhte.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Assassins Creed t-shirt",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/eptmvz6baijvqj0odydt.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "name": "Dark Souls t-shirt",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/dark-souls-tshirt_qfa0qq.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "Deadpool Funko Pop!",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/deadpool-funko_gmq45a.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "name": "God of War t-shirt",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/god-of-war-tshirt_g1xta6.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": 15,
+      "name": "Game over mug",
+      "price": "20",
+      "available": true,
+      "imageUrl": "https://res.cloudinary.com/dpboa89bp/image/upload/v1644161562/game-omver-mug_v6yfaz.jpg",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "key": "mugs",
+      "displayName": "Mugs"
+    },
+    {
+      "id": 2,
+      "key": "tshits",
+      "displayName": "t-shirts"
+    },
+    {
+      "id": 3,
+      "key": "funko-pop",
+      "displayName": "Funko Pop!"
+    }
+  ]
+}
