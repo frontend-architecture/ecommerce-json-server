@@ -1,6 +1,6 @@
 # e-commerce JSON server
 
-Product list REST API.
+[Product list REST API](https://frontend-architecture-products.herokuapp.com/).
 
 ## Getting Started
 
